@@ -7,7 +7,7 @@ This project analyses **31 million real H&M transactions** (Sep 2018 – Sep 202
 **Tools:** SQL (DuckDB), Python, Plotly · **Author:** Kushmi Chandrasena
 
 ## ▶ Live dashboard
-**https://kushitec15691.github.io/hm-assortment-analysis/**
+**[https://kushitec15691.github.io/hm-assortment-analysis/](https://kushitec15691.github.io/hm-assortment-analysis/output/)**
 
 ![Overview](images/overview.png)
 
