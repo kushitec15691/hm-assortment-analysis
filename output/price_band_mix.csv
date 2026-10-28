@@ -1,0 +1,337 @@
+garment_group_name,channel,period,price_band,units,sales_value
+Accessories,Online,Y1 (Sep 2018–Sep 2019),1 Entry,69108,475.6957
+Accessories,Store,Y1 (Sep 2018–Sep 2019),1 Entry,156207,861.8766
+Accessories,Online,Y2 (Sep 2019–Sep 2020),1 Entry,49043,337.6785
+Accessories,Store,Y2 (Sep 2019–Sep 2020),1 Entry,183062,1007.4385
+Accessories,Online,Y2 (Sep 2019–Sep 2020),2 Core low,116693,1436.317
+Accessories,Online,Y1 (Sep 2018–Sep 2019),2 Core low,153590,1882.7354
+Accessories,Store,Y2 (Sep 2019–Sep 2020),2 Core low,118283,1443.8915
+Accessories,Store,Y1 (Sep 2018–Sep 2019),2 Core low,143686,1759.531
+Accessories,Store,Y2 (Sep 2019–Sep 2020),3 Core high,56069,926.0114
+Accessories,Store,Y1 (Sep 2018–Sep 2019),3 Core high,52216,863.168
+Accessories,Online,Y1 (Sep 2018–Sep 2019),3 Core high,69485,1151.7881
+Accessories,Online,Y2 (Sep 2019–Sep 2020),3 Core high,67375,1108.7719
+Accessories,Store,Y1 (Sep 2018–Sep 2019),4 Premium,67138,1883.1532
+Accessories,Store,Y2 (Sep 2019–Sep 2020),4 Premium,55472,1565.6742
+Accessories,Online,Y2 (Sep 2019–Sep 2020),4 Premium,134283,4152.0876
+Accessories,Online,Y1 (Sep 2018–Sep 2019),4 Premium,153754,4911.1993
+Blouses,Online,Y1 (Sep 2018–Sep 2019),1 Entry,249306,3269.9677
+Blouses,Store,Y1 (Sep 2018–Sep 2019),1 Entry,114052,1410.3579
+Blouses,Store,Y2 (Sep 2019–Sep 2020),1 Entry,87912,1105.7286
+Blouses,Online,Y2 (Sep 2019–Sep 2020),1 Entry,181711,2483.1854
+Blouses,Store,Y1 (Sep 2018–Sep 2019),2 Core low,148491,3486.2883
+Blouses,Online,Y2 (Sep 2019–Sep 2020),2 Core low,253004,5976.1335
+Blouses,Store,Y2 (Sep 2019–Sep 2020),2 Core low,117610,2773.1185
+Blouses,Online,Y1 (Sep 2018–Sep 2019),2 Core low,291294,6874.4985
+Blouses,Store,Y2 (Sep 2019–Sep 2020),3 Core high,74902,2410.2265
+Blouses,Online,Y2 (Sep 2019–Sep 2020),3 Core high,211704,6824.3017
+Blouses,Store,Y1 (Sep 2018–Sep 2019),3 Core high,121951,3898.6742
+Blouses,Online,Y1 (Sep 2018–Sep 2019),3 Core high,227314,7434.9123
+Blouses,Online,Y2 (Sep 2019–Sep 2020),4 Premium,187753,10378.0249
+Blouses,Store,Y1 (Sep 2018–Sep 2019),4 Premium,41416,1982.018
+Blouses,Store,Y2 (Sep 2019–Sep 2020),4 Premium,32398,1544.0873
+Blouses,Online,Y1 (Sep 2018–Sep 2019),4 Premium,169623,9433.438
+Dressed,Online,Y2 (Sep 2019–Sep 2020),1 Entry,39415,1400.457
+Dressed,Store,Y1 (Sep 2018–Sep 2019),1 Entry,23374,852.412
+Dressed,Store,Y2 (Sep 2019–Sep 2020),1 Entry,19539,685.6832
+Dressed,Online,Y1 (Sep 2018–Sep 2019),1 Entry,23069,807.6588
+Dressed,Store,Y2 (Sep 2019–Sep 2020),2 Core low,20531,1034.2905
+Dressed,Online,Y1 (Sep 2018–Sep 2019),2 Core low,43490,2197.8335
+Dressed,Online,Y2 (Sep 2019–Sep 2020),2 Core low,48658,2456.9167
+Dressed,Store,Y1 (Sep 2018–Sep 2019),2 Core low,22679,1143.7558
+Dressed,Store,Y1 (Sep 2018–Sep 2019),3 Core high,20596,1309.6972
+Dressed,Online,Y1 (Sep 2018–Sep 2019),3 Core high,39198,2563.4766
+Dressed,Online,Y2 (Sep 2019–Sep 2020),3 Core high,56589,3664.8413
+Dressed,Store,Y2 (Sep 2019–Sep 2020),3 Core high,22039,1425.5616
+Dressed,Store,Y2 (Sep 2019–Sep 2020),4 Premium,2272,228.7173
+Dressed,Store,Y1 (Sep 2018–Sep 2019),4 Premium,5059,555.0605
+Dressed,Online,Y1 (Sep 2018–Sep 2019),4 Premium,13615,1611.3708
+Dressed,Online,Y2 (Sep 2019–Sep 2020),4 Premium,9412,932.1347
+Dresses Ladies,Online,Y1 (Sep 2018–Sep 2019),1 Entry,269489,5222.9857
+Dresses Ladies,Online,Y2 (Sep 2019–Sep 2020),1 Entry,247621,4796.3432
+Dresses Ladies,Store,Y2 (Sep 2019–Sep 2020),1 Entry,79216,1376.0443
+Dresses Ladies,Store,Y1 (Sep 2018–Sep 2019),1 Entry,96125,1717.0914
+Dresses Ladies,Online,Y1 (Sep 2018–Sep 2019),2 Core low,229235,7440.4477
+Dresses Ladies,Store,Y2 (Sep 2019–Sep 2020),2 Core low,55451,1746.3635
+Dresses Ladies,Store,Y1 (Sep 2018–Sep 2019),2 Core low,72978,2337.9235
+Dresses Ladies,Online,Y2 (Sep 2019–Sep 2020),2 Core low,215991,6897.1948
+Dresses Ladies,Online,Y1 (Sep 2018–Sep 2019),3 Core high,140757,5848.7214
+Dresses Ladies,Store,Y1 (Sep 2018–Sep 2019),3 Core high,28277,1176.5411
+Dresses Ladies,Store,Y2 (Sep 2019–Sep 2020),3 Core high,26716,1101.1063
+Dresses Ladies,Online,Y2 (Sep 2019–Sep 2020),3 Core high,151806,6289.0398
+Dresses Ladies,Online,Y1 (Sep 2018–Sep 2019),4 Premium,258633,15705.7244
+Dresses Ladies,Online,Y2 (Sep 2019–Sep 2020),4 Premium,212627,12708.9785
+Dresses Ladies,Store,Y2 (Sep 2019–Sep 2020),4 Premium,24013,1266.9071
+Dresses Ladies,Store,Y1 (Sep 2018–Sep 2019),4 Premium,38594,2069.885
+Dresses/Skirts girls,Store,Y2 (Sep 2019–Sep 2020),1 Entry,2380,24.9676
+Dresses/Skirts girls,Store,Y1 (Sep 2018–Sep 2019),1 Entry,5900,62.0547
+Dresses/Skirts girls,Online,Y2 (Sep 2019–Sep 2020),1 Entry,1408,16.7907
+Dresses/Skirts girls,Online,Y1 (Sep 2018–Sep 2019),1 Entry,5873,71.3434
+Dresses/Skirts girls,Store,Y1 (Sep 2018–Sep 2019),2 Core low,8663,170.5438
+Dresses/Skirts girls,Online,Y2 (Sep 2019–Sep 2020),2 Core low,2303,44.7769
+Dresses/Skirts girls,Online,Y1 (Sep 2018–Sep 2019),2 Core low,7370,147.0626
+Dresses/Skirts girls,Store,Y2 (Sep 2019–Sep 2020),2 Core low,1687,33.1528
+Dresses/Skirts girls,Store,Y1 (Sep 2018–Sep 2019),3 Core high,2935,72.3079
+Dresses/Skirts girls,Online,Y2 (Sep 2019–Sep 2020),3 Core high,1360,33.944
+Dresses/Skirts girls,Store,Y2 (Sep 2019–Sep 2020),3 Core high,1049,26.1266
+Dresses/Skirts girls,Online,Y1 (Sep 2018–Sep 2019),3 Core high,3350,84.1232
+Dresses/Skirts girls,Online,Y1 (Sep 2018–Sep 2019),4 Premium,4972,186.6771
+Dresses/Skirts girls,Online,Y2 (Sep 2019–Sep 2020),4 Premium,2399,87.7917
+Dresses/Skirts girls,Store,Y1 (Sep 2018–Sep 2019),4 Premium,3209,107.6155
+Dresses/Skirts girls,Store,Y2 (Sep 2019–Sep 2020),4 Premium,1035,34.7839
+Jersey Basic,Online,Y2 (Sep 2019–Sep 2020),1 Entry,291980,2189.5495
+Jersey Basic,Store,Y2 (Sep 2019–Sep 2020),1 Entry,154737,1147.8746
+Jersey Basic,Online,Y1 (Sep 2018–Sep 2019),1 Entry,340587,2527.3077
+Jersey Basic,Store,Y1 (Sep 2018–Sep 2019),1 Entry,266913,1945.4176
+Jersey Basic,Online,Y1 (Sep 2018–Sep 2019),2 Core low,188083,2335.5876
+Jersey Basic,Store,Y1 (Sep 2018–Sep 2019),2 Core low,130681,1619.4118
+Jersey Basic,Online,Y2 (Sep 2019–Sep 2020),2 Core low,248497,3121.5552
+Jersey Basic,Store,Y2 (Sep 2019–Sep 2020),2 Core low,102744,1286.1252
+Jersey Basic,Online,Y2 (Sep 2019–Sep 2020),3 Core high,255594,4241.6284
+Jersey Basic,Store,Y2 (Sep 2019–Sep 2020),3 Core high,117443,1948.0122
+Jersey Basic,Store,Y1 (Sep 2018–Sep 2019),3 Core high,127584,2106.9899
+Jersey Basic,Online,Y1 (Sep 2018–Sep 2019),3 Core high,226500,3765.429
+Jersey Basic,Online,Y2 (Sep 2019–Sep 2020),4 Premium,326103,8951.6255
+Jersey Basic,Online,Y1 (Sep 2018–Sep 2019),4 Premium,274460,7591.6563
+Jersey Basic,Store,Y1 (Sep 2018–Sep 2019),4 Premium,107570,2941.8291
+Jersey Basic,Store,Y2 (Sep 2019–Sep 2020),4 Premium,108975,3029.0036
+Jersey Fancy,Online,Y2 (Sep 2019–Sep 2020),1 Entry,331757,3764.0476
+Jersey Fancy,Online,Y1 (Sep 2018–Sep 2019),1 Entry,534548,5635.8103
+Jersey Fancy,Store,Y2 (Sep 2019–Sep 2020),1 Entry,207024,2144.2325
+Jersey Fancy,Store,Y1 (Sep 2018–Sep 2019),1 Entry,293462,2926.4956
+Jersey Fancy,Store,Y2 (Sep 2019–Sep 2020),2 Core low,234930,4158.3654
+Jersey Fancy,Store,Y1 (Sep 2018–Sep 2019),2 Core low,277747,5027.5311
+Jersey Fancy,Online,Y1 (Sep 2018–Sep 2019),2 Core low,518137,9594.2709
+Jersey Fancy,Online,Y2 (Sep 2019–Sep 2020),2 Core low,429824,7979.9324
+Jersey Fancy,Store,Y2 (Sep 2019–Sep 2020),3 Core high,129067,3381.4419
+Jersey Fancy,Online,Y1 (Sep 2018–Sep 2019),3 Core high,396087,10335.4608
+Jersey Fancy,Online,Y2 (Sep 2019–Sep 2020),3 Core high,416802,10932.3941
+Jersey Fancy,Store,Y1 (Sep 2018–Sep 2019),3 Core high,167155,4364.1599
+Jersey Fancy,Store,Y1 (Sep 2018–Sep 2019),4 Premium,144174,5751.1734
+Jersey Fancy,Online,Y2 (Sep 2019–Sep 2020),4 Premium,495723,20965.0154
+Jersey Fancy,Online,Y1 (Sep 2018–Sep 2019),4 Premium,472363,20592.7169
+Jersey Fancy,Store,Y2 (Sep 2019–Sep 2020),4 Premium,122811,4858.9351
+Knitwear,Store,Y1 (Sep 2018–Sep 2019),1 Entry,162793,2329.0383
+Knitwear,Store,Y2 (Sep 2019–Sep 2020),1 Entry,104746,1498.9063
+Knitwear,Online,Y2 (Sep 2019–Sep 2020),1 Entry,142998,2235.7307
+Knitwear,Online,Y1 (Sep 2018–Sep 2019),1 Entry,203634,3096.6675
+Knitwear,Store,Y1 (Sep 2018–Sep 2019),2 Core low,120344,3116.6884
+Knitwear,Online,Y1 (Sep 2018–Sep 2019),2 Core low,190879,4921.6669
+Knitwear,Online,Y2 (Sep 2019–Sep 2020),2 Core low,208825,5360.5617
+Knitwear,Store,Y2 (Sep 2019–Sep 2020),2 Core low,101434,2620.1436
+Knitwear,Store,Y1 (Sep 2018–Sep 2019),3 Core high,99766,3458.6744
+Knitwear,Store,Y2 (Sep 2019–Sep 2020),3 Core high,96876,3321.3585
+Knitwear,Online,Y2 (Sep 2019–Sep 2020),3 Core high,204713,7063.9672
+Knitwear,Online,Y1 (Sep 2018–Sep 2019),3 Core high,187775,6463.0454
+Knitwear,Online,Y2 (Sep 2019–Sep 2020),4 Premium,212430,12400.8834
+Knitwear,Store,Y1 (Sep 2018–Sep 2019),4 Premium,72469,3572.1267
+Knitwear,Online,Y1 (Sep 2018–Sep 2019),4 Premium,217788,12496.3952
+Knitwear,Store,Y2 (Sep 2019–Sep 2020),4 Premium,65337,3190.1085
+Outdoor,Store,Y1 (Sep 2018–Sep 2019),1 Entry,34340,970.6522
+Outdoor,Store,Y2 (Sep 2019–Sep 2020),1 Entry,26828,780.8203
+Outdoor,Online,Y1 (Sep 2018–Sep 2019),1 Entry,65964,2168.4063
+Outdoor,Online,Y2 (Sep 2019–Sep 2020),1 Entry,52064,1793.4258
+Outdoor,Online,Y2 (Sep 2019–Sep 2020),2 Core low,62343,3380.4934
+Outdoor,Store,Y1 (Sep 2018–Sep 2019),2 Core low,27868,1491.8905
+Outdoor,Store,Y2 (Sep 2019–Sep 2020),2 Core low,18935,1020.141
+Outdoor,Online,Y1 (Sep 2018–Sep 2019),2 Core low,69479,3771.2131
+Outdoor,Online,Y2 (Sep 2019–Sep 2020),3 Core high,77256,5753.0635
+Outdoor,Store,Y2 (Sep 2019–Sep 2020),3 Core high,18892,1424.3735
+Outdoor,Store,Y1 (Sep 2018–Sep 2019),3 Core high,20782,1557.8804
+Outdoor,Online,Y1 (Sep 2018–Sep 2019),3 Core high,75404,5619.4306
+Outdoor,Store,Y2 (Sep 2019–Sep 2020),4 Premium,12804,1510.6208
+Outdoor,Store,Y1 (Sep 2018–Sep 2019),4 Premium,15156,1749.9918
+Outdoor,Online,Y2 (Sep 2019–Sep 2020),4 Premium,67476,8434.3007
+Outdoor,Online,Y1 (Sep 2018–Sep 2019),4 Premium,69985,8528.9443
+Shirts,Online,Y1 (Sep 2018–Sep 2019),1 Entry,13932,211.5748
+Shirts,Store,Y1 (Sep 2018–Sep 2019),1 Entry,17990,265.1285
+Shirts,Store,Y2 (Sep 2019–Sep 2020),1 Entry,14111,195.2359
+Shirts,Online,Y2 (Sep 2019–Sep 2020),1 Entry,8790,139.6482
+Shirts,Online,Y2 (Sep 2019–Sep 2020),2 Core low,13473,324.5836
+Shirts,Store,Y1 (Sep 2018–Sep 2019),2 Core low,17234,415.8624
+Shirts,Store,Y2 (Sep 2019–Sep 2020),2 Core low,10926,264.7212
+Shirts,Online,Y1 (Sep 2018–Sep 2019),2 Core low,15618,378.5399
+Shirts,Online,Y1 (Sep 2018–Sep 2019),3 Core high,13529,436.784
+Shirts,Online,Y2 (Sep 2019–Sep 2020),3 Core high,12138,391.6575
+Shirts,Store,Y2 (Sep 2019–Sep 2020),3 Core high,12578,407.1587
+Shirts,Store,Y1 (Sep 2018–Sep 2019),3 Core high,15758,500.3529
+Shirts,Online,Y2 (Sep 2019–Sep 2020),4 Premium,9798,467.906
+Shirts,Store,Y1 (Sep 2018–Sep 2019),4 Premium,13100,592.4239
+Shirts,Store,Y2 (Sep 2019–Sep 2020),4 Premium,8775,387.951
+Shirts,Online,Y1 (Sep 2018–Sep 2019),4 Premium,12539,653.0916
+Shoes,Store,Y2 (Sep 2019–Sep 2020),1 Entry,19626,295.6309
+Shoes,Store,Y1 (Sep 2018–Sep 2019),1 Entry,29296,396.3599
+Shoes,Online,Y2 (Sep 2019–Sep 2020),1 Entry,63436,1000.5953
+Shoes,Online,Y1 (Sep 2018–Sep 2019),1 Entry,89471,1364.0729
+Shoes,Store,Y1 (Sep 2018–Sep 2019),2 Core low,15635,464.4746
+Shoes,Store,Y2 (Sep 2019–Sep 2020),2 Core low,9786,288.0378
+Shoes,Online,Y2 (Sep 2019–Sep 2020),2 Core low,75264,2215.4563
+Shoes,Online,Y1 (Sep 2018–Sep 2019),2 Core low,90672,2688.6104
+Shoes,Online,Y1 (Sep 2018–Sep 2019),3 Core high,92522,4187.5836
+Shoes,Store,Y2 (Sep 2019–Sep 2020),3 Core high,7670,347.2799
+Shoes,Online,Y2 (Sep 2019–Sep 2020),3 Core high,68927,3108.8358
+Shoes,Store,Y1 (Sep 2018–Sep 2019),3 Core high,14896,665.1123
+Shoes,Online,Y2 (Sep 2019–Sep 2020),4 Premium,61141,4709.1159
+Shoes,Online,Y1 (Sep 2018–Sep 2019),4 Premium,80642,6061.1153
+Shoes,Store,Y2 (Sep 2019–Sep 2020),4 Premium,4280,265.0905
+Shoes,Store,Y1 (Sep 2018–Sep 2019),4 Premium,6213,383.2254
+Shorts,Store,Y1 (Sep 2018–Sep 2019),1 Entry,58114,698.1096
+Shorts,Online,Y1 (Sep 2018–Sep 2019),1 Entry,96462,1350.9786
+Shorts,Online,Y2 (Sep 2019–Sep 2020),1 Entry,62016,901.3702
+Shorts,Store,Y2 (Sep 2019–Sep 2020),1 Entry,31781,407.0589
+Shorts,Store,Y2 (Sep 2019–Sep 2020),2 Core low,18561,435.6855
+Shorts,Online,Y2 (Sep 2019–Sep 2020),2 Core low,59191,1399.7242
+Shorts,Store,Y1 (Sep 2018–Sep 2019),2 Core low,40203,951.0583
+Shorts,Online,Y1 (Sep 2018–Sep 2019),2 Core low,88459,2096.9543
+Shorts,Store,Y2 (Sep 2019–Sep 2020),3 Core high,18572,586.4096
+Shorts,Online,Y1 (Sep 2018–Sep 2019),3 Core high,72057,2336.106
+Shorts,Online,Y2 (Sep 2019–Sep 2020),3 Core high,75378,2433.7093
+Shorts,Store,Y1 (Sep 2018–Sep 2019),3 Core high,30743,973.0024
+Shorts,Store,Y2 (Sep 2019–Sep 2020),4 Premium,4459,183.7133
+Shorts,Online,Y2 (Sep 2019–Sep 2020),4 Premium,33900,1481.1327
+Shorts,Store,Y1 (Sep 2018–Sep 2019),4 Premium,11103,470.2701
+Shorts,Online,Y1 (Sep 2018–Sep 2019),4 Premium,35717,1561.4856
+Skirts,Store,Y1 (Sep 2018–Sep 2019),1 Entry,20983,394.0812
+Skirts,Store,Y2 (Sep 2019–Sep 2020),1 Entry,23834,423.0301
+Skirts,Online,Y1 (Sep 2018–Sep 2019),1 Entry,73580,1429.9176
+Skirts,Online,Y2 (Sep 2019–Sep 2020),1 Entry,79458,1569.8977
+Skirts,Online,Y1 (Sep 2018–Sep 2019),2 Core low,64541,2102.3806
+Skirts,Online,Y2 (Sep 2019–Sep 2020),2 Core low,84927,2751.1058
+Skirts,Store,Y1 (Sep 2018–Sep 2019),2 Core low,19796,632.6324
+Skirts,Store,Y2 (Sep 2019–Sep 2020),2 Core low,23780,757.3054
+Skirts,Online,Y1 (Sep 2018–Sep 2019),3 Core high,46493,1921.4639
+Skirts,Online,Y2 (Sep 2019–Sep 2020),3 Core high,37033,1523.366
+Skirts,Store,Y1 (Sep 2018–Sep 2019),3 Core high,13264,535.8012
+Skirts,Store,Y2 (Sep 2019–Sep 2020),3 Core high,9423,381.085
+Skirts,Store,Y2 (Sep 2019–Sep 2020),4 Premium,13204,694.2201
+Skirts,Online,Y1 (Sep 2018–Sep 2019),4 Premium,48967,2723.9142
+Skirts,Store,Y1 (Sep 2018–Sep 2019),4 Premium,14522,748.802
+Skirts,Online,Y2 (Sep 2019–Sep 2020),4 Premium,51017,2859.6941
+Socks and Tights,Store,Y2 (Sep 2019–Sep 2020),1 Entry,95709,440.8562
+Socks and Tights,Online,Y2 (Sep 2019–Sep 2020),1 Entry,23539,138.7532
+Socks and Tights,Online,Y1 (Sep 2018–Sep 2019),1 Entry,18655,123.8902
+Socks and Tights,Store,Y1 (Sep 2018–Sep 2019),1 Entry,70329,359.7681
+Socks and Tights,Online,Y1 (Sep 2018–Sep 2019),2 Core low,25883,276.7033
+Socks and Tights,Store,Y2 (Sep 2019–Sep 2020),2 Core low,49430,535.4219
+Socks and Tights,Online,Y2 (Sep 2019–Sep 2020),2 Core low,35481,380.7639
+Socks and Tights,Store,Y1 (Sep 2018–Sep 2019),2 Core low,62807,684.3111
+Socks and Tights,Online,Y1 (Sep 2018–Sep 2019),3 Core high,34342,462.3988
+Socks and Tights,Store,Y1 (Sep 2018–Sep 2019),3 Core high,62366,838.5784
+Socks and Tights,Online,Y2 (Sep 2019–Sep 2020),3 Core high,37263,500.7405
+Socks and Tights,Store,Y2 (Sep 2019–Sep 2020),3 Core high,47552,638.1362
+Socks and Tights,Online,Y2 (Sep 2019–Sep 2020),4 Premium,46498,937.1287
+Socks and Tights,Store,Y1 (Sep 2018–Sep 2019),4 Premium,51766,893.6751
+Socks and Tights,Online,Y1 (Sep 2018–Sep 2019),4 Premium,47040,914.7621
+Socks and Tights,Store,Y2 (Sep 2019–Sep 2020),4 Premium,38684,671.176
+Special Offers,Online,Y2 (Sep 2019–Sep 2020),1 Entry,7622,97.1034
+Special Offers,Online,Y1 (Sep 2018–Sep 2019),1 Entry,42259,608.5094
+Special Offers,Store,Y2 (Sep 2019–Sep 2020),1 Entry,3467,39.7437
+Special Offers,Store,Y1 (Sep 2018–Sep 2019),1 Entry,5889,69.6813
+Special Offers,Online,Y1 (Sep 2018–Sep 2019),2 Core low,24817,620.3335
+Special Offers,Store,Y1 (Sep 2018–Sep 2019),2 Core low,7967,197.5408
+Special Offers,Online,Y2 (Sep 2019–Sep 2020),2 Core low,18958,486.7877
+Special Offers,Store,Y2 (Sep 2019–Sep 2020),2 Core low,5234,135.2447
+Special Offers,Online,Y1 (Sep 2018–Sep 2019),3 Core high,23450,827.3172
+Special Offers,Online,Y2 (Sep 2019–Sep 2020),3 Core high,22224,779.0522
+Special Offers,Store,Y2 (Sep 2019–Sep 2020),3 Core high,5457,189.6136
+Special Offers,Store,Y1 (Sep 2018–Sep 2019),3 Core high,7156,259.8991
+Special Offers,Store,Y2 (Sep 2019–Sep 2020),4 Premium,3094,182.3101
+Special Offers,Online,Y1 (Sep 2018–Sep 2019),4 Premium,22763,1805.364
+Special Offers,Online,Y2 (Sep 2019–Sep 2020),4 Premium,24890,1866.7033
+Special Offers,Store,Y1 (Sep 2018–Sep 2019),4 Premium,7150,396.574
+Swimwear,Store,Y1 (Sep 2018–Sep 2019),1 Entry,97599,1238.6218
+Swimwear,Store,Y2 (Sep 2019–Sep 2020),1 Entry,101866,1274.5875
+Swimwear,Online,Y2 (Sep 2019–Sep 2020),1 Entry,379465,5571.1896
+Swimwear,Online,Y1 (Sep 2018–Sep 2019),1 Entry,508888,6948.858
+Swimwear,Online,Y2 (Sep 2019–Sep 2020),2 Core low,121091,2533.7876
+Swimwear,Store,Y2 (Sep 2019–Sep 2020),2 Core low,18607,387.6752
+Swimwear,Online,Y1 (Sep 2018–Sep 2019),2 Core low,150585,3184.6929
+Swimwear,Store,Y1 (Sep 2018–Sep 2019),2 Core low,29585,619.9882
+Swimwear,Online,Y1 (Sep 2018–Sep 2019),3 Core high,240857,6043.7145
+Swimwear,Store,Y2 (Sep 2019–Sep 2020),3 Core high,34364,858.7055
+Swimwear,Online,Y2 (Sep 2019–Sep 2020),3 Core high,244381,6115.8312
+Swimwear,Store,Y1 (Sep 2018–Sep 2019),3 Core high,52173,1297.103
+Swimwear,Online,Y2 (Sep 2019–Sep 2020),4 Premium,209973,7556.99
+Swimwear,Online,Y1 (Sep 2018–Sep 2019),4 Premium,283259,10280.6049
+Swimwear,Store,Y2 (Sep 2019–Sep 2020),4 Premium,21251,748.7634
+Swimwear,Store,Y1 (Sep 2018–Sep 2019),4 Premium,44141,1588.8203
+Trousers,Online,Y2 (Sep 2019–Sep 2020),1 Entry,309631,6507.9856
+Trousers,Store,Y1 (Sep 2018–Sep 2019),1 Entry,124611,2337.4709
+Trousers,Store,Y2 (Sep 2019–Sep 2020),1 Entry,92633,1736.407
+Trousers,Online,Y1 (Sep 2018–Sep 2019),1 Entry,385215,7929.8805
+Trousers,Online,Y2 (Sep 2019–Sep 2020),2 Core low,393747,12760.2085
+Trousers,Store,Y1 (Sep 2018–Sep 2019),2 Core low,143803,4593.1105
+Trousers,Store,Y2 (Sep 2019–Sep 2020),2 Core low,112233,3622.5219
+Trousers,Online,Y1 (Sep 2018–Sep 2019),2 Core low,406088,13280.4149
+Trousers,Store,Y1 (Sep 2018–Sep 2019),3 Core high,50532,2047.2752
+Trousers,Online,Y2 (Sep 2019–Sep 2020),3 Core high,166483,6856.1376
+Trousers,Store,Y2 (Sep 2019–Sep 2020),3 Core high,38318,1558.208
+Trousers,Online,Y1 (Sep 2018–Sep 2019),3 Core high,153614,6350.8862
+Trousers,Store,Y1 (Sep 2018–Sep 2019),4 Premium,67880,3720.3679
+Trousers,Online,Y1 (Sep 2018–Sep 2019),4 Premium,236989,13712.0278
+Trousers,Online,Y2 (Sep 2019–Sep 2020),4 Premium,217407,12111.1843
+Trousers,Store,Y2 (Sep 2019–Sep 2020),4 Premium,54527,2944.1383
+Trousers Denim,Store,Y2 (Sep 2019–Sep 2020),1 Entry,39923,706.3282
+Trousers Denim,Online,Y2 (Sep 2019–Sep 2020),1 Entry,85469,1684.2043
+Trousers Denim,Store,Y1 (Sep 2018–Sep 2019),1 Entry,65577,1156.3658
+Trousers Denim,Online,Y1 (Sep 2018–Sep 2019),1 Entry,160074,3011.8962
+Trousers Denim,Store,Y1 (Sep 2018–Sep 2019),2 Core low,45509,1477.6726
+Trousers Denim,Online,Y2 (Sep 2019–Sep 2020),2 Core low,101084,3338.3142
+Trousers Denim,Store,Y2 (Sep 2019–Sep 2020),2 Core low,30563,1004.3346
+Trousers Denim,Online,Y1 (Sep 2018–Sep 2019),2 Core low,135412,4442.1682
+Trousers Denim,Store,Y1 (Sep 2018–Sep 2019),3 Core high,32726,1469.7411
+Trousers Denim,Online,Y2 (Sep 2019–Sep 2020),3 Core high,154864,7315.8513
+Trousers Denim,Store,Y2 (Sep 2019–Sep 2020),3 Core high,28556,1363.8451
+Trousers Denim,Online,Y1 (Sep 2018–Sep 2019),3 Core high,138971,6436.7439
+Trousers Denim,Online,Y2 (Sep 2019–Sep 2020),4 Premium,102109,7218.0515
+Trousers Denim,Online,Y1 (Sep 2018–Sep 2019),4 Premium,103430,7470.3668
+Trousers Denim,Store,Y1 (Sep 2018–Sep 2019),4 Premium,28470,2004.6006
+Trousers Denim,Store,Y2 (Sep 2019–Sep 2020),4 Premium,27149,1855.2147
+"Under-, Nightwear",Store,Y2 (Sep 2019–Sep 2020),1 Entry,159876,1696.2541
+"Under-, Nightwear",Online,Y2 (Sep 2019–Sep 2020),1 Entry,207367,2447.7969
+"Under-, Nightwear",Online,Y1 (Sep 2018–Sep 2019),1 Entry,215066,2459.2361
+"Under-, Nightwear",Store,Y1 (Sep 2018–Sep 2019),1 Entry,214546,2172.9664
+"Under-, Nightwear",Store,Y2 (Sep 2019–Sep 2020),2 Core low,135928,2332.7067
+"Under-, Nightwear",Online,Y2 (Sep 2019–Sep 2020),2 Core low,211139,3703.116
+"Under-, Nightwear",Online,Y1 (Sep 2018–Sep 2019),2 Core low,198275,3422.014
+"Under-, Nightwear",Store,Y1 (Sep 2018–Sep 2019),2 Core low,141253,2436.057
+"Under-, Nightwear",Store,Y2 (Sep 2019–Sep 2020),3 Core high,121132,2896.4899
+"Under-, Nightwear",Store,Y1 (Sep 2018–Sep 2019),3 Core high,112458,2688.2697
+"Under-, Nightwear",Online,Y1 (Sep 2018–Sep 2019),3 Core high,230518,5567.4775
+"Under-, Nightwear",Online,Y2 (Sep 2019–Sep 2020),3 Core high,337912,8148.8969
+"Under-, Nightwear",Online,Y1 (Sep 2018–Sep 2019),4 Premium,243778,8564.8791
+"Under-, Nightwear",Online,Y2 (Sep 2019–Sep 2020),4 Premium,302022,10493.9033
+"Under-, Nightwear",Store,Y1 (Sep 2018–Sep 2019),4 Premium,67762,2258.7677
+"Under-, Nightwear",Store,Y2 (Sep 2019–Sep 2020),4 Premium,67756,2253.2641
+Unknown,Online,Y2 (Sep 2019–Sep 2020),1 Entry,26485,416.3904
+Unknown,Store,Y1 (Sep 2018–Sep 2019),1 Entry,10332,151.0111
+Unknown,Store,Y2 (Sep 2019–Sep 2020),1 Entry,6990,102.2019
+Unknown,Online,Y1 (Sep 2018–Sep 2019),1 Entry,55503,883.5258
+Unknown,Online,Y2 (Sep 2019–Sep 2020),2 Core low,36478,1099.0172
+Unknown,Online,Y1 (Sep 2018–Sep 2019),2 Core low,77090,2328.132
+Unknown,Store,Y1 (Sep 2018–Sep 2019),2 Core low,10438,308.2371
+Unknown,Store,Y2 (Sep 2019–Sep 2020),2 Core low,8058,233.3177
+Unknown,Store,Y2 (Sep 2019–Sep 2020),3 Core high,1360,61.9679
+Unknown,Online,Y2 (Sep 2019–Sep 2020),3 Core high,18731,838.0739
+Unknown,Store,Y1 (Sep 2018–Sep 2019),3 Core high,2559,114.8677
+Unknown,Online,Y1 (Sep 2018–Sep 2019),3 Core high,43873,2002.2483
+Unknown,Store,Y2 (Sep 2019–Sep 2020),4 Premium,2057,147.9934
+Unknown,Online,Y1 (Sep 2018–Sep 2019),4 Premium,53003,5971.5336
+Unknown,Online,Y2 (Sep 2019–Sep 2020),4 Premium,35751,4028.512
+Unknown,Store,Y1 (Sep 2018–Sep 2019),4 Premium,2931,208.1372
+Woven/Jersey/Knitted mix Baby,Store,Y1 (Sep 2018–Sep 2019),1 Entry,4636,51.1811
+Woven/Jersey/Knitted mix Baby,Online,Y2 (Sep 2019–Sep 2020),1 Entry,2440,28.2877
+Woven/Jersey/Knitted mix Baby,Store,Y2 (Sep 2019–Sep 2020),1 Entry,1870,22.2944
+Woven/Jersey/Knitted mix Baby,Online,Y1 (Sep 2018–Sep 2019),1 Entry,6839,77.4555
+Woven/Jersey/Knitted mix Baby,Online,Y1 (Sep 2018–Sep 2019),2 Core low,5462,96.0083
+Woven/Jersey/Knitted mix Baby,Store,Y2 (Sep 2019–Sep 2020),2 Core low,2019,34.7333
+Woven/Jersey/Knitted mix Baby,Store,Y1 (Sep 2018–Sep 2019),2 Core low,3702,64.6577
+Woven/Jersey/Knitted mix Baby,Online,Y2 (Sep 2019–Sep 2020),2 Core low,2969,52.0442
+Woven/Jersey/Knitted mix Baby,Store,Y1 (Sep 2018–Sep 2019),3 Core high,2937,69.185
+Woven/Jersey/Knitted mix Baby,Store,Y2 (Sep 2019–Sep 2020),3 Core high,1503,35.2935
+Woven/Jersey/Knitted mix Baby,Online,Y2 (Sep 2019–Sep 2020),3 Core high,4348,103.9644
+Woven/Jersey/Knitted mix Baby,Online,Y1 (Sep 2018–Sep 2019),3 Core high,7108,169.5241
+Woven/Jersey/Knitted mix Baby,Store,Y2 (Sep 2019–Sep 2020),4 Premium,656,21.0306
+Woven/Jersey/Knitted mix Baby,Store,Y1 (Sep 2018–Sep 2019),4 Premium,1265,40.9841
+Woven/Jersey/Knitted mix Baby,Online,Y1 (Sep 2018–Sep 2019),4 Premium,7341,259.1696
+Woven/Jersey/Knitted mix Baby,Online,Y2 (Sep 2019–Sep 2020),4 Premium,4768,171.7127
