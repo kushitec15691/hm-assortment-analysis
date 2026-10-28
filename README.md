@@ -6,6 +6,11 @@ This project analyses **31 million real H&M transactions** (Sep 2018 – Sep 202
 
 **Tools:** SQL (DuckDB), Python, Plotly · **Author:** Kushmi Chandrasena
 
+## ▶ Live dashboard
+**https://kushitec15691.github.io/hm-assortment-analysis/**
+
+![Overview](images/overview.png)
+
 ## Questions answered
 1. **Sales mix and trend** – which index and garment groups drive sales, week by week, in stores and online?
 2. **Top-down vs bottom-up** – each group's share of total sales and its growth year on year (Sep 2019–Sep 2020 vs Sep 2018–Sep 2019).
@@ -27,13 +32,16 @@ Year 2 (Sep 2019–Sep 2020) vs Year 1 (Sep 2018–Sep 2019). Year 2 includes th
 
 *Note:* values are normalised in the source data, so findings use relative change and shares, not SEK.
 
-## Dashboard
-`make_dashboard.py` builds an interactive dashboard (`output/dashboard.html`) with KPIs, the findings and eight charts: weekly sales by channel, top-down index-group mix, bottom-up growth vs share, biggest movers, price-band mix, customer age mix, rate of sale after launch, and colours by season.
-
-*(add 2–3 screenshots here)*
+## Charts
+![Stores vs online](images/weekly_channel.png)
+![Biggest movers](images/movers.png)
+![Growth vs share](images/growth_vs_share.png)
+![Price bands](images/price_bands.png)
+![Customer age mix](images/age_mix.png)
 
 ## Method and data notes
 - `sql/build_tables.sql` builds one enriched fact table (transactions + product attributes) and six summary tables; `build_tables.py` runs it with DuckDB, which handles the 31M-row file on a normal laptop.
+- `make_dashboard.py` builds the interactive dashboard (KPIs, findings and eight charts) as a single HTML page, published here as `index.html`.
 - **Prices are normalised in the source data** (not SEK), so values show relative sales value, not actual revenue. Units and shares are exact.
 - `sales_channel_id = 2` is treated as online and `1` as store, as commonly interpreted for this dataset.
 - The dataset has no stock or purchase data, so sell-through and margin cannot be calculated; rate of sale after launch is used as the closest proxy.
@@ -41,9 +49,9 @@ Year 2 (Sep 2019–Sep 2020) vs Year 1 (Sep 2018–Sep 2019). Year 2 includes th
 
 ## How to reproduce
 1. Download `articles.csv`, `customers.csv` and `transactions_train.csv` from the Kaggle competition *H&M Personalized Fashion Recommendations* (free account; accept the competition rules).
-2. `pip install duckdb`
+2. `pip install duckdb plotly pandas`
 3. `python build_tables.py --data <folder with the CSV files> --out output`
-4. `pip install plotly pandas` then `python make_dashboard.py --out output`
-5. Open `output/dashboard.html` in a browser. (The CSV files also load directly into Power BI or Excel.)
+4. `python make_dashboard.py --out output`
+5. Open `output/dashboard.html` in a browser.
 
 The raw data is not included in this repository, in line with the Kaggle competition rules.
