@@ -7,7 +7,7 @@ This project analyses **31 million real H&M transactions** (Sep 2018 – Sep 202
 **Tools:** SQL (DuckDB), Python, Plotly · **Author:** Kushmi Chandrasena
 
 ## ▶ Live dashboard
-**[https://kushitec15691.github.io/hm-assortment-analysis/](https://kushitec15691.github.io/hm-assortment-analysis/output/)**
+**https://raw.githack.com/kushitec15691/hm-assortment-analysis/main/output/index.html**
 
 ![Overview](images/overview.png)
 
@@ -41,7 +41,7 @@ Year 2 (Sep 2019–Sep 2020) vs Year 1 (Sep 2018–Sep 2019). Year 2 includes th
 
 ## Method and data notes
 - `sql/build_tables.sql` builds one enriched fact table (transactions + product attributes) and six summary tables; `build_tables.py` runs it with DuckDB, which handles the 31M-row file on a normal laptop.
-- `make_dashboard.py` builds the interactive dashboard (KPIs, findings and eight charts) as a single HTML page, published here as `index.html`.
+- `make_dashboard.py` builds the interactive dashboard (KPIs, findings and eight charts) as a single HTML page (`output/index.html`).
 - **Prices are normalised in the source data** (not SEK), so values show relative sales value, not actual revenue. Units and shares are exact.
 - `sales_channel_id = 2` is treated as online and `1` as store, as commonly interpreted for this dataset.
 - The dataset has no stock or purchase data, so sell-through and margin cannot be calculated; rate of sale after launch is used as the closest proxy.
